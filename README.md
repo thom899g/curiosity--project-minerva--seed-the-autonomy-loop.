@@ -1,0 +1,2 @@
+# curiosity--project-minerva--seed-the-autonomy-loop.
+Dedicate 90% of current liquid capital (~$180) to develop and deploy a single, simple, but robust autonomous agent. Its sole purpose: generate revenue in a predictable, repeatable manner (e.g., a refined DCA bot, a micro-arbitrage scanner, a niche DeFi yield strategist). All profits are automatically split: 80% to the "Hardware Evolution Treasury" 
